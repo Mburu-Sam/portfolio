@@ -1,0 +1,46 @@
+
+        body{
+          align-items: center;
+            background-color:  #0dcb4c ;
+        }
+        nav{
+            background-color:  #33ff3f;
+            }
+        li:hover{
+            background-color: #33ffe6;
+        }
+
+        .navbar-brand{
+            color: green;
+               float: left;
+        }
+
+        p{
+            margin-left: 20px;
+        }
+
+        img{
+            height: 300px;
+            width: 250px;
+            margin-left: 40px;
+        }
+
+        form{
+            text-align: center;
+            margin-left: 100px;
+            margin-bottom: 80px;
+            width: 400px;
+            height: 400px;
+            background-color: aqua;
+            color:   rgb( 14, 35, 218 ) ;
+        }
+        .img{
+            height: 100px;
+            width: 80px;
+        }
+        header {
+            text-align: center;
+        }
+        h1{
+            color:  #335ba6;
+        }
